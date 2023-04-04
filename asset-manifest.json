@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.481530f2.css",
-    "main.js": "/static/js/main.c7084cbb.js",
-    "static/media/music digital.png": "/static/media/music digital.3d7b76c27b7620236c47.png",
-    "static/media/eko.png": "/static/media/eko.fb6d9a12eae9a0c4f810.png",
-    "static/media/sept.png": "/static/media/sept.3fe67f467cf823fdf8b9.png",
-    "static/media/loom.png": "/static/media/loom.01769873c9edbd2ee0fe.png",
-    "static/media/no cheers.png": "/static/media/no cheers.46495b1e66c50ab9aea8.png",
-    "index.html": "/index.html",
-    "main.481530f2.css.map": "/static/css/main.481530f2.css.map",
-    "main.c7084cbb.js.map": "/static/js/main.c7084cbb.js.map"
+    "main.css": "/shopping-cart/static/css/main.481530f2.css",
+    "main.js": "/shopping-cart/static/js/main.3ebceefd.js",
+    "static/media/music digital.png": "/shopping-cart/static/media/music digital.3d7b76c27b7620236c47.png",
+    "static/media/eko.png": "/shopping-cart/static/media/eko.fb6d9a12eae9a0c4f810.png",
+    "static/media/sept.png": "/shopping-cart/static/media/sept.3fe67f467cf823fdf8b9.png",
+    "static/media/loom.png": "/shopping-cart/static/media/loom.01769873c9edbd2ee0fe.png",
+    "static/media/no cheers.png": "/shopping-cart/static/media/no cheers.46495b1e66c50ab9aea8.png",
+    "index.html": "/shopping-cart/index.html",
+    "main.481530f2.css.map": "/shopping-cart/static/css/main.481530f2.css.map",
+    "main.3ebceefd.js.map": "/shopping-cart/static/js/main.3ebceefd.js.map"
   },
   "entrypoints": [
     "static/css/main.481530f2.css",
-    "static/js/main.c7084cbb.js"
+    "static/js/main.3ebceefd.js"
   ]
 }
