@@ -1,0 +1,98 @@
+
+:root{
+    --col1: rgb(5, 129, 129);
+    --col2: rgb(236, 217, 192);
+    --col3: rgb(105, 80, 80);
+    --col4: rgba(231, 185, 167, 0.548);
+    --col5: rgb(44, 37, 37);
+}
+
+a{
+    color: var(--col1);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--col3);
+    text-decoration: none;
+}
+
+.Nav, .Homepage{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Nav, .Homepage h1, .sticker, .Cart h1{
+    margin: 18px;
+}
+
+.Nav ul, .Homepage, .Shop-page{
+    display: flex;
+}
+
+.Homepage, .Shop-page, .Cart{
+    color: var(--col5);
+}
+
+.Nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.Homepage h1{
+    width: 500px;
+    text-align: center;
+}
+
+.Homepage{
+    justify-content: center;
+    align-items: center;
+    color: var(--col5);
+}
+
+.Shop-page{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sticker{
+    border: 1px solid var(--col1);
+    border-radius: 10px;
+    width: max-content;
+    padding: 6px;
+    background-color: var(--col4);
+}
+
+button{
+    border-style: none;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: var(--col1);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+button:hover{
+    border-style: none;
+    border-radius: 20px;
+    padding: 10px;
+    color: var(--col2);
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--col2);
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 200px;
+    border-radius: 5px;
+}
